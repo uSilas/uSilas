@@ -34,6 +34,6 @@
 
 ## 📬 Vamos nos conectar
 
-- #### Email: silas.oficial.prof@gmail.com
-- #### LinkedIn: [LinkedIn](https://www.linkedin.com/in/silas-eufrasio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silas.oficial.prof@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-eufrasio/)
 
