@@ -3,12 +3,37 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-eufrasio/)
 
 ## Sobre Mim
+- 🎓 Estudante de Ciência de Dados pela Universidade Federal do Ceará
+- 🔬 Pesquisador em projetos de Extensão Universitária e Laboratório Acadêmico
+- 🤖 Foco em Ciência de Dados, IA e LLMs
 
- Aluno graduando de Ciência de Dados pela Universidade Federal do Ceará (UFC). Tenho experiência em projetos de estatística, machine learning, LLLM's e visão computacional.
+## 🧠 Áreas de Interesse
+
+- Ciência de Dados
+- Machine Learning
+- Processamento de Linguagem Natural (NLP)
+- LLMs e Agentes
+- Visão computacional
+
 ## Tecnologias que uso no meu dia a dia
 
-<div style="display: inline_block"><br/>
-    <img align=center alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align=center alt="html5" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-    <img align=center alt="html5" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-</div>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+## 📬 Vamos nos conectar
+
+Email: silas.oficial.prof@gmail.com
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/silas-eufrasio/)
+
