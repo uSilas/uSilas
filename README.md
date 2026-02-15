@@ -9,7 +9,7 @@
 
 ## 🧠 Áreas de Interesse
 
-- Ciência de Dados
+- Estatística
 - Machine Learning
 - Processamento de Linguagem Natural (NLP)
 - LLMs e Agentes
@@ -34,6 +34,6 @@
 
 ## 📬 Vamos nos conectar
 
-# Email: silas.oficial.prof@gmail.com
-# LinkedIn: [LinkedIn](https://www.linkedin.com/in/silas-eufrasio/)
+- #### Email: silas.oficial.prof@gmail.com
+- #### LinkedIn: [LinkedIn](https://www.linkedin.com/in/silas-eufrasio/)
 
